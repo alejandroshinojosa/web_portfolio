@@ -1,0 +1,5 @@
+# Descartar archivos que no quieres
+
+.vscode
+
+hola.txt
