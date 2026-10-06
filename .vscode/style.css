@@ -82,13 +82,15 @@ h2{
 
 #port {
     background-color: goldenrod;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    min-width: 100%;
 }
 
 .portimg {
-    display: flex;
-    flex-direction: row wrap;
-    width: 20%;
-    
+    width: 200px;
+    height: 200px;
 }
 
 .campo *{
